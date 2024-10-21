@@ -1,0 +1,14 @@
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\bin\Debug\net8.0\MyCSharpAPP.exe
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\bin\Debug\net8.0\MyCSharpAPP.deps.json
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\bin\Debug\net8.0\MyCSharpAPP.runtimeconfig.json
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\bin\Debug\net8.0\MyCSharpAPP.dll
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\bin\Debug\net8.0\MyCSharpAPP.pdb
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.AssemblyInfoInputs.cache
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.AssemblyInfo.cs
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.csproj.CoreCompileInputs.cache
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.dll
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\refint\MyCSharpAPP.dll
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.pdb
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.genruntimeconfig.cache
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\ref\MyCSharpAPP.dll
