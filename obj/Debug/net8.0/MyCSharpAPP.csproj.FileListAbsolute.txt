@@ -12,3 +12,4 @@ C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\refint\MyCSh
 C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.pdb
 C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.genruntimeconfig.cache
 C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\ref\MyCSharpAPP.dll
+C:\Users\aswan\OneDrive\Desktop\edstem\MyCSharpAPP\obj\Debug\net8.0\MyCSharpAPP.sourcelink.json
